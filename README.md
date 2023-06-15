@@ -1,5 +1,5 @@
-# Full_stack_CHAT_APPLICATION
-This is a full-stack chat application built using React,  ChatEngine.IO, Express , and Node.js. It allows users to send and receive real-time messages in both group chats and private conversations.
+# REAL TIME CHAT APPLICATION
+This is a full-stack Real time chat application built using React,  ChatEngine.IO, Express , and Node.js. It allows users to send and receive real-time messages in both group chats and private conversations.
 
 Features
 Real-time messaging using ChatEngine.IO.
